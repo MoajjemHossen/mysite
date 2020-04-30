@@ -1,0 +1,97 @@
+
+
+.container {
+  width: 1070px;
+  margin: 0 auto;
+
+}
+#head {
+  background: #c6c6c6;
+  overflow: hidden;
+}
+#site_logo {
+  width: 300px;
+  float: left;
+  overflow: hidden;
+}
+#site_logo h1 a {
+
+    text-decoration: none;
+    color: #324f41;
+
+}
+#menu {
+  width: 650px;
+  float: right;
+  overflow: ;
+}
+#main_menu ul {
+  list-style-type: none;
+  display: ;
+  position: ;
+}
+#menu ul li {
+  display: inline;
+  float: left;
+}
+#menu ul li a {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #151313;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+li a:hover {
+
+    background: #b7a0a0a6;
+
+}
+#site_logo h1 {
+  padding-left: 15px;
+  text-transform: uppercase;
+  font-size: 35px;
+}
+
+#content h1 {
+
+    text-align: center;
+    font-size: 40px;
+
+}
+#content p {
+
+    font-size: 18px;
+    font-family: arial;
+
+}
+
+
+
+#footer_content {
+  padding: 16px 0px 0px 20px;
+  font-size: 17px;
+}
+#footer {
+  background: #919191;
+}
+#footer_content a {
+  text-decoration: none;
+  color: #605768;
+}
+#footer_content a:hover {
+  color: black;
+}
+
+
+#footer_cpyright {
+
+    text-align: center;
+    background: #c6c6c6;
+    padding: 5px;
+    font-size: 17px;
+    letter-spacing: 3px;
+
+}
